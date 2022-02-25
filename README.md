@@ -18,8 +18,5 @@ src/stacks/Navigator.java
     - allows to go back and forward in the stacklist of links.
 
 
-resources/RUN.txt
-    - console output of BrowserNavigation.java, Navigator.java, & StackList.java.
-
-README.txt
+README.md
     - description of submitted files.
